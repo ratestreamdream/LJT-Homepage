@@ -36,7 +36,7 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023). Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023). Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-Code repositories for these papers are available on my GitHub profile (linked in the sidebar). A complete list of publications is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+GitHub code repositories for several of these papers are available from my GitHub profile (linked in the sidebar); a complete list of publications is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Awards
 
